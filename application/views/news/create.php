@@ -13,3 +13,4 @@
     <input type="submit" name="submit" value="Create news item" />
 
 </form>
+<p><a href="<?= site_url('news/');?>">Back</a></p>
